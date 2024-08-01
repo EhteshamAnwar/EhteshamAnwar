@@ -10,3 +10,5 @@
 [![Ehtesham Anwar's GitHub stats](https://github-readme-stats-two-flame-47.vercel.app/api?username=EhteshamAnwar&theme=radical&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-two-flame-47.vercel.app/api/top-langs/?username=EhteshamAnwar&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EhteshamAnwar&theme=dark)](https://git.io/streak-stats)
