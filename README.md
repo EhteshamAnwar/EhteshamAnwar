@@ -7,4 +7,4 @@
 - 📫 How to reach me: [muhammadehteshamanwar@gmail.com](mailto:muhammadehteshamanwar@gmail.com)
 - ⚡ Fun fact: I love coding and Chai!
 
-[![Ehtesham Anwar's GitHub stats](https://github-readme-stats-two-flame-47.vercel.app/api?username=EhteshamAnwar&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ehtesham Anwar's GitHub stats](https://github-readme-stats-two-flame-47.vercel.app/api?username=EhteshamAnwar&theme=radical&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
